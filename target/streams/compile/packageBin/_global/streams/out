@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/beluamd/repos/scalaRepos/akka-simple-http-app/target/scala-2.13/akka-simple-http-app_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/beluamd/repos/scalaRepos/akka-simple-http-app/target/scala-2.13/classes/io[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/belueu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/beluamd/repos/scalaRepos/akka-simple-http-app/target/scala-2.13/classes/io/belueu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/belueu/akkahttp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/beluamd/repos/scalaRepos/akka-simple-http-app/target/scala-2.13/classes/io/belueu/akkahttp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/belueu/akkahttp/AkkaSimpleHttp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/beluamd/repos/scalaRepos/akka-simple-http-app/target/scala-2.13/classes/io/belueu/akkahttp/AkkaSimpleHttp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/belueu/akkahttp/AkkaSimpleHttp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/beluamd/repos/scalaRepos/akka-simple-http-app/target/scala-2.13/classes/io/belueu/akkahttp/AkkaSimpleHttp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
